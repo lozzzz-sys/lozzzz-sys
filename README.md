@@ -16,7 +16,6 @@
 
 ## 🛠️ **My Tech Stack**
 
-### **Security & OS**
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-%23557C93?style=flat-square&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -27,5 +26,7 @@
 
 ## 📊 **GitHub Stats**
 
-![Longz-85's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longz-85&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Longz-85&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Longz-85&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Longz-85&layout=compact&theme=dark" alt="Top Languages" />
+</p>
