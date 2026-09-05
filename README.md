@@ -26,5 +26,5 @@
 
 ## 📊 **GitHub Stats**
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lozzzz-sys&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=lozzzz-sys&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)
 [![Top lang](https://github-stats-extended.vercel.app/api/top-langs?username=lozzzz-sys&layout=donut-vertical&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=lozzzz-sys&layout=donut-vertical&langs_count=4&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lozzzz-sys&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=lozzzz-sys&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)
