@@ -27,3 +27,4 @@
 ## 📊 **GitHub Stats**
 
 [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=lozzzz-sys)](https://github.com/stats-organization/github-stats-extended)
+[![Top lang](https://github-stats-extended.vercel.app/api/top-langs?username=lozzzz-sys&layout=donut-vertical&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=lozzzz-sys&layout=donut-vertical&langs_count=4&theme=tokyonight)
