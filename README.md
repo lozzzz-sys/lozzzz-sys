@@ -1,7 +1,8 @@
 # ***Hi, I'm Longz-85!***
 
 [![GitHub](https://img.shields.io/badge/-Longz--85-%23181717?style=flat-square&logo=github)](https://github.com/Longz-85)
-[![TryHackMe](https://img.shields.io/badge/-Discord-%23222831?style=flat-square&logo=discord)](https://discordapp.com/users/1511523792449568918)
+[![Discord](https://img.shields.io/badge/-Discord-%23222831?style=flat-square&logo=discord)](https://discordapp.com/users/1511523792449568918)
+[![Tiktok](https://img.shields.io/badge/-Tiktok-%23222831?style=flat-square&logo=tiktok)](https://www.tiktok.com/@longz8560)
 
 **I ❤️ Cybersecurity, Systems & Creative Tech!**
 
