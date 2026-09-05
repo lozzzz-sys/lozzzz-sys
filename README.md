@@ -18,13 +18,9 @@
 
 ### **Security & OS**
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-%23557C93?style=flat-square&logo=kalilinux&logoColor=white)
-
-### **Programming & Scripting**
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-x86_Assembly-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### **Tools & Workflow**
 ![ESP8266](https://img.shields.io/badge/-Hardware%2FESP8266-%23E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 ---
