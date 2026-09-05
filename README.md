@@ -26,5 +26,5 @@
 
 ## 📊 **GitHub Stats**
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=lozzzz-sys)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lozzzz-sys&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=lozzzz-sys&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
 [![Top lang](https://github-stats-extended.vercel.app/api/top-langs?username=lozzzz-sys&layout=donut-vertical&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=lozzzz-sys&layout=donut-vertical&langs_count=4&theme=tokyonight)
