@@ -26,11 +26,7 @@
 
 ## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Longz-85&theme=dark" alt="GitHub Streak" />
-</p>
+## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Longz-85&theme=dracula" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Longz-85&theme=dracula" alt="Most Used Languages" />
-</p>
+[![Longz-85's GitHub stats](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Longz-85&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Longz-85&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
