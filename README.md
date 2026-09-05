@@ -1,4 +1,4 @@
-# ***Hi, I'm Longz-85!*** 🛡️⚡
+# ***Hi, I'm Longz-85!***
 
 [![GitHub](https://img.shields.io/badge/-Longz--85-%23181717?style=flat-square&logo=github)](https://github.com/Longz-85)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23222831?style=flat-square&logo=tryhackme)](https://tryhackme.com)
@@ -27,6 +27,10 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Longz-85&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Longz-85&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Longz-85&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Longz-85&theme=dracula" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Longz-85&theme=dracula" alt="Most Used Languages" />
 </p>
