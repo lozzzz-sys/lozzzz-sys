@@ -26,7 +26,4 @@
 
 ## 📊 **GitHub Stats**
 
-## 📊 **GitHub Stats**
-
-[![Longz-85's GitHub stats](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Longz-85&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Longz-85&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=lozzzz-sys)](https://github.com/stats-organization/github-stats-extended)
